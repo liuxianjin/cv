@@ -35,17 +35,17 @@ h1 {
   font-size: 22px;
   border-bottom: 1px solid #ccc;
 }
-.sub-title {
+.sub-title-compatible {
   display: flex;
   justify-content: space-between;
   font-size: 18px;
   font-weight: bold;
   line-height: 2;
 }
-.sub-title div {
+.sub-title-compatible div {
   flex: 1;
 }
-.sub-title > div:last-child {
+.sub-title-compatible > div:last-child {
   text-align: right;
 }
 h1 {
@@ -70,16 +70,16 @@ a {
     width: auto;
     height: auto;
   }
-  .sub-title {
+  .sub-title-compatible {
     display: block;
     font-size: 18px !important;
   }
-  .sub-title div {
+  .sub-title-compatible div {
     display: block;
     width: 100vh;
     font-size: 18px !important;
   }
-  .sub-title > div:last-child {
+  .sub-title-compatible > div:last-child {
     text-align: left;
   }
   .pc-row {
