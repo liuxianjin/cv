@@ -71,19 +71,19 @@ a {
     height: auto;
   }
   .sub-title-compatible {
-    display:grid;
+    display: grid;
     font-size: 18px;
   }
   .sub-title-compatible div {
-    display:grid
+    display: grid
   }
   .sub-title-compatible > div:last-child {
     text-align: left;
   }
   .pc-row {
-    display:grid;
+    display: grid;
   }
-  .pc-interval{
+  .pc-interval {
     display: none;
   }
 }
@@ -91,7 +91,7 @@ a {
   body {
     margin: 0;
   }
-  .page{
+  .page {
     margin-top: 20px;
   }
 }
