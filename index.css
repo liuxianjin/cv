@@ -72,10 +72,12 @@ a {
   }
   .sub-title {
     display: block;
+    font-size: 18px !important;
   }
   .sub-title div {
     display: block;
     width: 100vh;
+    font-size: 18px !important;
   }
   .sub-title > div:last-child {
     text-align: left;
