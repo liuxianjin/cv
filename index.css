@@ -71,20 +71,17 @@ a {
     height: auto;
   }
   .sub-title-compatible {
-    display: block;
+    display:grid;
     font-size: 18px;
-    font-weight: bold;
-    line-height: 2;
   }
   .sub-title-compatible div {
-    display: block;
-    width: 100vh;
+    display:grid
   }
   .sub-title-compatible > div:last-child {
     text-align: left;
   }
   .pc-row {
-    display: block;
+    display:grid;
   }
   .pc-interval{
     display: none;
