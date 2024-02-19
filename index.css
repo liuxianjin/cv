@@ -35,6 +35,7 @@ article {
 h1 {
   font-size: 22px;
   border-bottom: 1px solid #ccc;
+  /*color: #054ff5;*/
 }
 .sub-title-compatible {
   display: flex;
@@ -42,6 +43,7 @@ h1 {
   font-size: 18px;
   font-weight: bold;
   line-height: 2;
+  /*color: #14e345;*/
 }
 .sub-title-compatible div {
   flex: 1;
