@@ -13,9 +13,10 @@ article {
   margin: 0 auto;
   overflow: auto;
   padding: 1em;
+  font-size: 16px;
 }
 .row {
-  line-height: 1.65;
+  line-height: 1.9;
 }
 .pc-row {
   display: flex;
@@ -52,15 +53,16 @@ h1 {
   margin: 12px 0;
 }
 a {
-  color: #f60;
-  font-weight: bold;
+  /*color: #f60;*/
+  color: #777777;
+  /*font-weight: bold;*/
 }
 .cat-item {
   margin: 10px 0 0 0;
 }
 .tag {
-  color: #f60;
-  font-weight: bold;
+  /*color: #f60;*/
+  /*font-weight: bold;*/
 }
 @media (max-width: 500px) {
   body {
